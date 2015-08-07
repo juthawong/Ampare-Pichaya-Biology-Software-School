@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="juthawonga" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=Ampare-PC\SQLEXPRESS;Initial Catalog=juthawong;Integrated Security=True" SettingsObjectName="Ampare_Pichaya.MySettings" SettingsPropertyName="juthawongConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="SID" Type="System.String" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FullName" Type="System.String" CanBeNull="false" />
+      <Column Name="IDCard" Type="System.String" CanBeNull="false" />
+      <Column Name="Sex" Type="System.String" CanBeNull="false" />
+      <Column Name="Religious" Type="System.String" CanBeNull="false" />
+      <Column Name="Nationality" Type="System.String" CanBeNull="false" />
+      <Column Name="Note" Type="System.String" CanBeNull="false" />
+      <Column Name="Room" Type="System.String" CanBeNull="false" />
+      <Column Name="IsLeave" Type="System.String" CanBeNull="false" />
+      <Column Name="Grade" Type="System.String" CanBeNull="false" />
+      <Column Name="Access_By" Type="System.String" CanBeNull="false" />
+      <Column Name="Birthdate" Type="System.String" CanBeNull="false" />
+      <Column Name="PichayaDate" Type="System.String" CanBeNull="false" />
+      <Column Name="IntialID" Type="System.String" CanBeNull="false" />
+      <Association Name="Student_Main" Member="Mains" ThisKey="SID" OtherKey="SID" Type="Main" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Mains">
+    <Type Name="Main">
+      <Column Name="Main" Type="System.String" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SID" Type="System.String" CanBeNull="false" />
+      <Association Name="Student_Main" Member="Student" ThisKey="SID" OtherKey="SID" Type="Student" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

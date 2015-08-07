@@ -1,0 +1,53 @@
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.exe
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.pdb
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.xml
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\MainWindow.baml
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\Application.g.vb
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya_MarkupCompile.cache
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.g.resources
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.Resources.resources
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.exe
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.xml
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.pdb
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.exe.config
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.exe.manifest
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.application
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.exe
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.pdb
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Ampare_Pichaya.xml
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\GAFExtension.dll
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\System.Data.Linq.dll
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\ampare.baml
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\ampare.g.vb
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Application.g.vb
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya_MarkupCompile.cache
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.g.resources
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.Form1.resources
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.Form2.resources
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.frmmain.resources
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.GAFTextBox.resources
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.Resources.resources
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.exe.manifest
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.application
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.exe
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.xml
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare_Pichaya\Ampare_Pichaya\obj\x86\Debug\Ampare_Pichaya.pdb

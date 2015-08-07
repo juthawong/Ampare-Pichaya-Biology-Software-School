@@ -1,0 +1,64 @@
+﻿<ribbon:RibbonWindow x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ribbon="clr-namespace:Microsoft.Windows.Controls.Ribbon;assembly=RibbonControlsLibrary"
+        Title="Pichaya Database By Juthawong Naisanguansee" 
+        x:Name="RibbonWindow"
+		Width="640" Height="480">
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <ribbon:Ribbon x:Name="Ribbon">
+            <ribbon:Ribbon.ApplicationMenu>
+                <ribbon:RibbonApplicationMenu SmallImageSource="Images\pichaya32.png">
+                    <ribbon:RibbonApplicationMenuItem Header="PichiyaSuksa School"
+                                                      x:Name="MenuItem1"
+                                                      ImageSource="Images\pichaya.png">
+                        <ribbon:RibbonApplicationMenuItem.Icon>
+                            <Image Source="/Ampare_Pichaya;component/favicon.ico" />
+                        </ribbon:RibbonApplicationMenuItem.Icon>
+                    </ribbon:RibbonApplicationMenuItem>
+                </ribbon:RibbonApplicationMenu>
+            </ribbon:Ribbon.ApplicationMenu>
+            <ribbon:RibbonTab x:Name="HomeTab"
+                              Header="Home">
+                <ribbon:RibbonGroup x:Name="Group1"
+                                    Header="ช่องแรก">
+                    <ribbon:RibbonButton x:Name="Button1"
+                                         LargeImageSource="Images\student_icon32.png"
+                                         Label="เพิ่มนักเรียน" />
+
+                    <ribbon:RibbonButton x:Name="Button2"
+                                         SmallImageSource="Images\4-icon.png"
+                                         Label="ข้อมูลนักเรียน" />
+                    <ribbon:RibbonButton x:Name="Button3"
+                                         SmallImageSource="Images\picture.png"
+                                         Label="รูปภาพ" />
+                    <ribbon:RibbonButton x:Name="Button4"
+                                         SmallImageSource="Images\leave.gif"
+                                         Label="การลาออก" />
+
+                </ribbon:RibbonGroup>
+
+            </ribbon:RibbonTab>
+            <ribbon:RibbonTab x:Name="Tab2"
+                              Header="Exit">
+                <ribbon:RibbonGroup x:Name="Group2"
+                                    Header="ช่องสอง">
+                                       <ribbon:RibbonButton x:Name="cmdExit"
+                                         LargeImageSource="Images\exit.png"
+                                         Label="ออกจจากระบบ" />
+                   
+                    
+                </ribbon:RibbonGroup>
+
+            </ribbon:RibbonTab>
+        </ribbon:Ribbon>
+
+
+    </Grid>
+</ribbon:RibbonWindow>

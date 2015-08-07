@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="Students">
+    <Type Name="Student">
+      <Column Member="SID" Type="System.String" CanBeNull="false" />
+      <Column Member="FullName" Type="System.String" CanBeNull="false" />
+      <Column Member="IDCard" Type="System.String" CanBeNull="false" />
+      <Column Member="Sex" Type="System.String" CanBeNull="false" />
+      <Column Member="Religious" Type="System.String" CanBeNull="false" />
+      <Column Member="Nationality" Type="System.String" CanBeNull="false" />
+      <Column Member="Note" Type="System.String" CanBeNull="false" />
+      <Column Member="Room" Type="System.String" CanBeNull="false" />
+      <Column Member="IsLeave" Type="System.String" CanBeNull="false" />
+      <Column Member="Grade" Type="System.String" CanBeNull="false" />
+      <Column Member="Access_By" Type="System.String" CanBeNull="false" />
+      <Column Member="Birthdate" Type="System.String" CanBeNull="false" />
+      <Column Member="PichayaDate" Type="System.String" CanBeNull="false" />
+      <Column Member="IntialID" Type="System.String" CanBeNull="false" />
+      <Association Name="Main_Student" Member="Main" ThisKey="SID" OtherKey="SID" Type="Main" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Mains">
+    <Type Name="Main">
+      <Column Member="Main" Type="System.String" CanBeNull="false" />
+      <Column Member="SID" Type="System.String" CanBeNull="false" />
+      <Association Name="Main_Student" Member="Students" ThisKey="SID" OtherKey="SID" Type="Student" />
+    </Type>
+  </Table>
+</Database>
